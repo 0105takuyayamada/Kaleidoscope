@@ -10,7 +10,7 @@ using UnityEngine;
 /// <summary>
 /// カメラのOrthographicSizeをアス比に応じて更新するクラス
 /// </summary>
-[RequireComponent(typeof(Camera)), ExecuteInEditMode]
+[RequireComponent(typeof(Camera))] // , ExecuteInEditMode]  Edited by yamara
 public class CameraSizeUpdater : MonoBehaviour
 {
 
