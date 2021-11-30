@@ -9,4 +9,4 @@ It works with URP and build-in, but it also works with HDRP if you change the ma
 
 Please enable dynamic batching.
 
-I hope you'll contact me when you use it.
+I'll be very happy if you contact me when you use it.
